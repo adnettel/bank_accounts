@@ -135,7 +135,6 @@ Bool processCommand() {
 
 void depositFunds() {
 
-	//validatePIN();
 
 	float amount;
 
@@ -156,7 +155,6 @@ void depositFunds() {
 
 void withdrawFunds() {
 
-	//validatePIN();
 
 	float amount;
 
